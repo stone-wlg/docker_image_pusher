@@ -1,4 +1,4 @@
-langgenius/dify-web:0.6.12
+xprobe/xinference:v0.12.3
 
 
 #支持私库
