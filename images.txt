@@ -1,11 +1,4 @@
-huggingface/datasets-server-services-admin:sha-630da86
-huggingface/datasets-server-services-api:sha-630da86
-huggingface/datasets-server-services-rows:sha-630da86
-huggingface/datasets-server-services-search:sha-630da86
-huggingface/datasets-server-services-sse-api:sha-630da86
-huggingface/datasets-server-services-webhook:sha-630da86
-huggingface/datasets-server-services-worker:sha-630da86
-mongo:6.0.9
+vllm/vllm-openai:v0.5.0
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
