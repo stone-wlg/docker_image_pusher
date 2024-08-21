@@ -1,4 +1,4 @@
-kong:3.6
+alpine:latest
 
 
 #支持私库
