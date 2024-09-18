@@ -1,4 +1,7 @@
-pytorch/pytorch:2.4.1-cuda12.4-cudnn9-devel
+ingress-nginx/controller:v1.11.2
+ingress-nginx/opentelemetry-1.25.3:v20240813-b933310d
+ingress-nginx/kube-webhook-certgen:v1.4.3
+defaultbackend-amd64:1.5
 
 
 #支持私库
