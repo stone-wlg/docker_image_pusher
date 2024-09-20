@@ -1,4 +1,4 @@
-golang:1.23.1
+gcr.io/distroless/static:nonroot
 
 
 
