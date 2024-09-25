@@ -1,4 +1,4 @@
-traefik/whoami:v1.10
+ghcr.io/loft-sh/vcluster-generic-crd-plugin:latest
 
 
 #支持私库
