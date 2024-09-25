@@ -1,5 +1,4 @@
-docker.io/traefik:v3.1.4
-
+traefik/whoami:v1.10
 
 
 #支持私库
