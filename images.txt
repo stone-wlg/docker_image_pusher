@@ -1,4 +1,4 @@
-ghcr.io/loft-sh/vcluster-generic-crd-plugin:latest
+gcr.io/kubebuilder/kube-rbac-proxy:v0.16.0
 
 
 #支持私库
