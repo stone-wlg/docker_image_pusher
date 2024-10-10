@@ -1,4 +1,4 @@
-ghcr.io/loft-sh/vcluster:0.18.1
+rancher/k3s:v1.28.2-k3s1
 
 
 #支持私库
