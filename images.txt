@@ -1,4 +1,5 @@
-rancher/k3s:v1.29.0-k3s1
+moby/buildkit:master-rootless
+registry:2.8.3
 
 
 #支持私库
