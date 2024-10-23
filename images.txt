@@ -1,5 +1,4 @@
-moby/buildkit:master-rootless
-registry:2.8.3
+rancher/kine:v0.13.2
 
 
 #支持私库
