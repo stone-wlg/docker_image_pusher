@@ -1,4 +1,4 @@
-golang:1.23.2
+ghcr.io/loft-sh/vcluster-platform:4.0.1
 
 
 #支持私库
