@@ -1,4 +1,4 @@
-ghcr.io/loft-sh/vcluster-platform:4.0.1
+registry.k8s.io/metrics-server/metrics-server:v0.7.2
 
 
 #支持私库
