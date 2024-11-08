@@ -1,4 +1,4 @@
-registry.k8s.io/metrics-server/metrics-server:v0.7.2
+nvcr.io/nvidia/k8s/dcgm-exporter:3.3.8-3.6.0-ubuntu22.04
 
 
 #支持私库
