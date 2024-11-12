@@ -1,5 +1,4 @@
-quay.io/metallb/controller:v0.14.8
-quay.io/metallb/speaker:v0.14.8
+ghcr.io/loft-sh/vcluster-pro:0.21.0
 
 
 #支持私库
