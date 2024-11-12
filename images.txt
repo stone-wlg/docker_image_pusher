@@ -1,4 +1,5 @@
-library/alpine:3.13.1
+quay.io/metallb/controller:v0.14.8
+quay.io/metallb/speaker:v0.14.8
 
 
 #支持私库
