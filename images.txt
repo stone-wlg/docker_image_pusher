@@ -1,4 +1,4 @@
-ghcr.io/loft-sh/vcluster-pro:0.21.0
+ghcr.io/loft-sh/loft:4.1.0
 
 
 #支持私库
