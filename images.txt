@@ -1,4 +1,4 @@
-ghcr.io/loft-sh/loft:4.1.0
+rancher/rancher:v2.9.3
 
 
 #支持私库
