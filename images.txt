@@ -1,4 +1,5 @@
-ghcr.io/loft-sh/vcluster-platform:4.1.0
+rancher/mirrored-bci-micro:15.6.24.2
+rancher/shell:v0.3.0
 
 
 
