@@ -1,4 +1,4 @@
-rancher/rancher:v2.9.3
+ghcr.io/loft-sh/vcluster-platform:4.1.0
 
 
 #支持私库
