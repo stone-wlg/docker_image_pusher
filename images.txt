@@ -1,5 +1,4 @@
-rancher/mirrored-bci-micro:15.6.24.2
-rancher/shell:v0.3.0
+rancher/rancher-cleanup:latest
 
 
 
