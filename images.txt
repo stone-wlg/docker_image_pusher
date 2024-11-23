@@ -1,4 +1,4 @@
-rancher/rancher-cleanup:latest
+quay.io/argoproj/argocd:v2.13.1
 
 
 
