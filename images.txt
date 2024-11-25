@@ -1,6 +1,4 @@
-volcanosh/vc-controller-manager:v1.10.0
-volcanosh/vc-scheduler:v1.10.0
-volcanosh/vc-webhook-manager:v1.10.0
+volcanosh/volcano-device-plugin:latest
 
 
 
