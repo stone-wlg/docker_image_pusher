@@ -1,4 +1,6 @@
-quay.io/argoproj/argocd:v2.13.1
+volcanosh/vc-controller-manager:v1.10.0
+volcanosh/vc-scheduler:v1.10.0
+volcanosh/vc-webhook-manager:v1.10.0
 
 
 
