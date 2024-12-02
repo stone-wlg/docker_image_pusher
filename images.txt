@@ -1,4 +1,4 @@
-nvidia/cuda:12.4.1-devel-ubuntu22.04
+gcr.io/kubeflow-ci/pytorch-dist-sendrecv-test:1.0
 
 
 
