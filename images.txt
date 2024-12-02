@@ -1,4 +1,5 @@
-gcr.io/kubeflow-ci/pytorch-dist-sendrecv-test:1.0
+gcr.io/knative-releases/knative.dev/operator/cmd/operator@sha256:0b5a3532417f9c8e7b6044e23f6f67ad932a74a40a4092ad965b6f173b2fd887
+gcr.io/knative-releases/knative.dev/operator/cmd/webhook@sha256:d3a7a3304629ccfcaacec620b50736e0b4c902a6328b83369b6cbaf7e94677c9
 
 
 
