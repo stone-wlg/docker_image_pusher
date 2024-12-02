@@ -1,7 +1,10 @@
-gcr.io/knative-releases/knative.dev/operator/cmd/operator@sha256:0b5a3532417f9c8e7b6044e23f6f67ad932a74a40a4092ad965b6f173b2fd887
-gcr.io/knative-releases/knative.dev/operator/cmd/webhook@sha256:d3a7a3304629ccfcaacec620b50736e0b4c902a6328b83369b6cbaf7e94677c9
-
-
+gcr.io/knative-releases/knative.dev/serving/pkg/cleanup/cmd/cleanup@sha256:573806b30f719a3414d64ba996e02fdd2ad9ed1e5984e7024f6c65fcaae03e5b
+gcr.io/knative-releases/knative.dev/pkg/apiextensions/storageversion/cmd/migrate@sha256:c2f7830569ab0b9f40ba785796d7a1d3e2069987528f5ca945ab7a339b0d96e7
+gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler-hpa@sha256:64166849fc5fd9b03ab2c1ebca72e70b826cf30e731b1fa3cdf725cdd30d6210
+gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:0fb5a4245aa4737d443658754464cd0a076de959fe14623fb9e9d31318ccce24
+gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:5e9236452d89363957d4e7e249d57740a8fcd946aed23f8518d94962bf440250
+gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:5fb22b052e6bc98a1a6bbb68c0282ddb50744702acee6d83110302bc990666e9
+gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:24c19cbee078925b91cd2e85082b581d53b218b410c083b1005dc06dc549b1d3
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
