@@ -1,5 +1,5 @@
-gcr.io/knative-releases/knative.dev/serving/cmd/default-domain@sha256:d51467bd96bf3fa06642738b1946bd1141545ca3474a51ca6b3af5d9b6e824dd
-
+gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler-hpa@sha256:64166849fc5fd9b03ab2c1ebca72e70b826cf30e731b1fa3cdf725cdd30d6210
+gcr.io/knative-releases/knative.dev/pkg/apiextensions/storageversion/cmd/migrate@sha256:c2f7830569ab0b9f40ba785796d7a1d3e2069987528f5ca945ab7a339b0d96e7
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
