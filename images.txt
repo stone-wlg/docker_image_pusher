@@ -1,4 +1,4 @@
-ghcr.io/ai-dock/comfyui:v2-cuda-12.1.1-cudnn8-devel-22.04-v0.2.7
+obeliks/comfyui:sha-ebf5c41-cu121
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
