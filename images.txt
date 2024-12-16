@@ -1,6 +1,5 @@
-docker.elastic.co/kibana/kibana:8.17.0
-docker.elastic.co/logstash/logstash:8.17.0
-docker.elastic.co/filebeat/filebeat:8.17.0
+starrocks/fe-ubuntu:3.3-latest
+starrocks/be-ubuntu:3.3-latest
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
