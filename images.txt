@@ -1,7 +1,7 @@
-elasticsearch:8.16.1
-kibana:8.16.1
-logstash:8.16.1
-filebeat:8.16.1
+docker.elastic.co/elasticsearch/elasticsearch:8.17.0
+docker.elastic.co/elasticsearch/kibana:8.17.0
+docker.elastic.co/elasticsearch/logstash:8.17.0
+docker.elastic.co/elasticsearch/filebeat:8.17.0
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
