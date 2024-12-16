@@ -1,4 +1,7 @@
-nvcr.io/nvidia/pytorch:24.11-py3
+elasticsearch:8.16.1
+kibana:8.16.1
+logstash:8.16.1
+filebeat:8.16.1
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
