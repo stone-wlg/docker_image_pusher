@@ -1,4 +1,4 @@
-universonic/stable-diffusion-webui:full
+siutin/stable-diffusion-webui-docker:cuda-12.6.3-v1.10.0-2024-12-04
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
