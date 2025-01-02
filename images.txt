@@ -1,6 +1,4 @@
-yanwk/comfyui-boot:cu124-cn
-yanwk/comfyui-boot:cu124-slim
-yanwk/comfyui-boot:cu124-megapak
+universonic/stable-diffusion-webui:full
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
