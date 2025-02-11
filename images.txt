@@ -1,4 +1,4 @@
-vllm/vllm-openai:v0.7.2
+lmsysorg/sglang:v0.4.2.post4-cu124
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
