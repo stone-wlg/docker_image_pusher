@@ -1,4 +1,4 @@
-lmsysorg/sglang:v0.4.3-cu125
+ghcr.io/labring/fastgpt:v4.8.21-fix
 
 
 #支持私库
