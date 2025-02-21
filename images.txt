@@ -1,5 +1,4 @@
-caddy:2.9-alpine
-alkey/valkey:8.1-alpine
+valkey/valkey:8.1-alpine
 searxng/searxng:latest
 
 #支持私库
