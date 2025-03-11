@@ -1,6 +1,4 @@
-nvidia/cuda:12.8.0-base-ubuntu22.04
-nvidia/cuda:12.8.0-devel-ubuntu22.04
-nvidia/cuda:12.8.0-runtime-ubuntu22.04
+lmcache/vllm-openai:2025-03-10
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
