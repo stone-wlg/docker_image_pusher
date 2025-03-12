@@ -1,4 +1,6 @@
-lmcache/vllm-openai:2025-03-10
+langgenius/dify-api:release-1.0.1-fix1
+langgenius/dify-web:release-1.0.1-fix1
+langgenius/dify-plugin-daemon:main-local
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
