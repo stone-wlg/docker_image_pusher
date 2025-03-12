@@ -1,6 +1,5 @@
-langgenius/dify-api:release-1.0.1-fix1
-langgenius/dify-web:release-1.0.1-fix1
-langgenius/dify-plugin-daemon:main-local
+langgenius/dify-api:main
+langgenius/dify-web:main
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
