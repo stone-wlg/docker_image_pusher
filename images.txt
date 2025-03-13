@@ -1,4 +1,4 @@
-bitnami/redis-cluster:latest
+bitnami/redis-sentinel:latest
 
 
 #支持私库
