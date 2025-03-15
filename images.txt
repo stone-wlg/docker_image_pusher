@@ -1,5 +1,4 @@
-langgenius/dify-sandbox:latest
-
+postgres:latest
 
 
 
