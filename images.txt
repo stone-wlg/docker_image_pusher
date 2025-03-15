@@ -1,4 +1,4 @@
-bitnami/redis-sentinel:latest
+lmsysorg/sglang:latest
 
 
 #支持私库
