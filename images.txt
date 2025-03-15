@@ -1,4 +1,7 @@
-lmsysorg/sglang:latest
+langgenius/dify-api:latest
+langgenius/dify-web:latest
+langgenius/dify-plugin-daemon:latest-local
+
 
 
 #支持私库
