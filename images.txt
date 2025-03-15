@@ -1,6 +1,4 @@
-node:latest
-alpine:latest
-node:16
+golang:latest
 
 
 #支持私库
