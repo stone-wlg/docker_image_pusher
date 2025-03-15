@@ -1,6 +1,5 @@
-langgenius/dify-api:latest
-langgenius/dify-web:latest
-langgenius/dify-plugin-daemon:latest-local
+langgenius/dify-sandbox:latest
+
 
 
 
