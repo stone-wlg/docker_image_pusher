@@ -1,4 +1,5 @@
-qdrant/qdrant:latest
+node:latest
+alpine:latest
 
 
 
