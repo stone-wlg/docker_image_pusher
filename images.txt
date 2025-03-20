@@ -1,4 +1,6 @@
-xprobe/xinference:latest
+langgenius/dify-api:latest
+langgenius/dify-web:latest
+langgenius/dify-plugin-daemon:latest
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
