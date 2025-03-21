@@ -1,4 +1,4 @@
-xprobe/xinference:latest
+xprobe/xinference:v1.3.1.post1
 
 
 #支持私库
