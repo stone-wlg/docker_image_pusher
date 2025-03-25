@@ -1,4 +1,4 @@
-vllm/vllm-openai:latest
+lmsysorg/sglang:latest
 
 
 #支持私库
