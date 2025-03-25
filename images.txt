@@ -1,4 +1,4 @@
-lmsysorg/sglang:latest
+lmcache/vllm-openai:2025-03-23
 
 
 #支持私库
