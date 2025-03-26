@@ -1,4 +1,4 @@
-lmsysorg/sglang:v0.4.4.post1-cu125
+xprobe/xinference:v1.4.0
 
 
 #支持私库
