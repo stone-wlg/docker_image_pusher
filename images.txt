@@ -1,4 +1,4 @@
-xprobe/xinference:v1.4.0
+vllm/vllm-openai:v0.8.2
 
 
 #支持私库
