@@ -1,4 +1,4 @@
-vllm/vllm-openai:v0.8.2
+lmcache/vllm-openai:2025-03-28
 
 
 #支持私库
