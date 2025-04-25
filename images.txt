@@ -1,6 +1,8 @@
-volcanosh/vc-controller-manager:v1.11.1
-volcanosh/vc-scheduler:v1.11.1
-volcanosh/vc-webhook-manager:v1.11.1
+langfuse/langfuse-worker:3
+clickhouse/clickhouse-server:latest
+minio/minio:latest
+redis:latest
+postgres:latest
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
