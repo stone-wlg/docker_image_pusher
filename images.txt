@@ -1,8 +1,4 @@
-registry.k8s.io/cluster-api/cluster-api-controller:v1.10.1
-registry.k8s.io/cluster-api/kubeadm-bootstrap-controller:v1.10.1
-registry.k8s.io/cluster-api/kubeadm-control-plane-controller:v1.10.1
-docker.io/loftsh/cluster-api-provider-vcluster:0.2.2
-gcr.io/kubebuilder/kube-rbac-proxy:v0.8.0
+loftsh/vcluster:0.24.1
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
