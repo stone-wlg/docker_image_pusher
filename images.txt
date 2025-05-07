@@ -1,5 +1,4 @@
-quay.io/kubevirt/virt-handler:v1.5.1
-quay.io/kubevirt/virt-controller:v1.5.1
+quay.io/kubevirt/virt-launcher:v1.5.1
 
 
 #支持私库
