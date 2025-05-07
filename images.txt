@@ -1,4 +1,4 @@
-ghcr.io/loft-sh/vcluster-pro:0.24.1
+quay.io/kubevirt/virt-operator:v1.5.1
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
