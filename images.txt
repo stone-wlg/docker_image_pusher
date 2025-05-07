@@ -1,4 +1,4 @@
-quay.io/capk/ubuntu-2404-container-disk:v1.32.1
+quay.io/capk/capk-manager:v0.1.10
 
 
 #支持私库
