@@ -1,4 +1,3 @@
-bobuhiro11/containerized-devstack-controller:latest
 bobuhiro11/containerized-devstack-compute-1:latest
 bobuhiro11/containerized-devstack-compute-2:latest
 
