@@ -1,4 +1,4 @@
-quay.io/capk/capk-manager:v0.1.10
+vllm/vllm-openai:v0.8.5.post1
 
 
 #支持私库
