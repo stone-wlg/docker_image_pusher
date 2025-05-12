@@ -1,5 +1,6 @@
-vllm/vllm-openai:v0.8.5.post1
-
+bobuhiro11/containerized-devstack-controller:latest
+bobuhiro11/containerized-devstack-compute-1:latest
+bobuhiro11/containerized-devstack-compute-2:latest
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
