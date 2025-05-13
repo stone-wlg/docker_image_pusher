@@ -1,5 +1,4 @@
-bobuhiro11/containerized-devstack-compute-1:latest
-bobuhiro11/containerized-devstack-compute-2:latest
+quay.io/orc/openstack-resource-controller:v2.1.0
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
