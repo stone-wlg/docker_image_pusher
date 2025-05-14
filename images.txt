@@ -1,3 +1,4 @@
+cfssl/cfssl:v1.6.5
 clastix/kubectl:v1.32
 
 #支持私库
