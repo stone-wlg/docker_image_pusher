@@ -1,4 +1,4 @@
-registry.k8s.io/kas-network-proxy/proxy-agent:v0.28.6
+quay.io/coreos/kubectl:v1.33.0
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
