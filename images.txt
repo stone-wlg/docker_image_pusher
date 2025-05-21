@@ -1,5 +1,5 @@
 busybox:latest
-bitnami/kubectl:v1.33
+bitnami/kubectl:1.33
 quay.io/prometheus/alertmanager:v0.28.1
 quay.io/prometheus-operator/admission-webhook:latest
 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.3
