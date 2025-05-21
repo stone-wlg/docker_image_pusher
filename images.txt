@@ -1,4 +1,12 @@
-clastix/kamaji-console:v0.0.3
+busybox:latest
+registry.k8s.io/kubectl:latest
+quay.io/prometheus/alertmanager:v0.28.1
+quay.io/prometheus-operator/admission-webhook:latest
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.3
+quay.io/prometheus-operator/prometheus-operator:latest
+quay.io/prometheus-operator/prometheus-config-reloader:latest
+quay.io/thanos/thanos:v0.38.0
+quay.io/prometheus/prometheus:v3.4.0
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
