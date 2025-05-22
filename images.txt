@@ -1,7 +1,5 @@
-kiwigrid/k8s-sidecar:1.30.3
-grafana/grafana:12.0.0
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0
-quay.io/prometheus/node-exporter:v1.9.1
+quay.io/metallb/metallb-operator:main
+quay.io/metallb/controller:main
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
