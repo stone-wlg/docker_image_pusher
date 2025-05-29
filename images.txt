@@ -1,8 +1,4 @@
-quay.io/metallb/frr-k8s:v0.0.17
-quay.io/metallb/speaker:main
-quay.io/metallb/controller:main
-quay.io/frrouting/frr:9.1.0
-quay.io/brancz/kube-rbac-proxy:v0.11.0
+nginx:latest
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
