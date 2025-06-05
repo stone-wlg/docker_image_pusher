@@ -1,4 +1,7 @@
-rclone/rclone:1.69
+volcanosh/vc-agent:v1.12.1
+volcanosh/vc-webhook-manager:v1.12.1
+volcanosh/vc-scheduler:v1.12.1
+volcanosh/vc-controller-manager:v1.12.1
 
 
 #支持私库
