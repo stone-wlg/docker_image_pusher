@@ -1,13 +1,4 @@
-docker.io/bitnami/kubectl:latest
-docker.io/cfssl/cfssl:latest
-docker.io/karmada/karmada-scheduler:latest
-docker.io/karmada/karmada-webhook:latest
-docker.io/karmada/karmada-controller-manager:latest
-docker.io/karmada/karmada-aggregated-apiserver:latest
-docker.io/karmada/karmada-metrics-adapter:latest
-docker.io/karmada/karmada-agent:latest
-docker.io/karmada/karmada-scheduler-estimator:latest
-docker.io/karmada/karmada-search:latest
+docker.io/karmada/karmada-descheduler:latest
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
