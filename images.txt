@@ -1,4 +1,4 @@
-rancher/shell:v0.4.1
+registry.k8s.io/cluster-api/cluster-api-controller:v1.10.4
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
