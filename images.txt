@@ -1,4 +1,8 @@
-xprobe/xinference:v1.8.1
+quay.io/kubevirt/virt-operator:v1.6.0
+quay.io/kubevirt/virt-launcher:v1.6.0
+quay.io/kubevirt/virt-handler:v1.6.0
+quay.io/kubevirt/virt-api:v1.6.0
+quay.io/kubevirt/virt-controller:v1.6.0
 
 
 #支持私库
