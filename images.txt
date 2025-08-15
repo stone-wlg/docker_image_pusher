@@ -1,9 +1,4 @@
-quay.io/kubevirt/virt-operator:v1.6.0
-quay.io/kubevirt/virt-launcher:v1.6.0
-quay.io/kubevirt/virt-handler:v1.6.0
-quay.io/kubevirt/virt-api:v1.6.0
-quay.io/kubevirt/virt-controller:v1.6.0
-
+vllm/vllm-openai:gptoss
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
