@@ -1,4 +1,4 @@
-public.ecr.aws/gravitational/teleport-ent-distroless-debug:16.5.14
+lmsysorg/sglang:v0.5.1
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
