@@ -1,4 +1,6 @@
-lmcache/vllm-openai:latest-nightly
+ghcr.io/kedacore/keda:2.17.2
+ghcr.io/kedacore/keda-metrics-apiserver:2.17.2
+ghcr.io/kedacore/keda-admission-webhooks:2.17.2
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
