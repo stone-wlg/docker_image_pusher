@@ -1,7 +1,4 @@
-volcanosh/vc-controller-manager:v1.12.2
-volcanosh/vc-scheduler:v1.12.2
-volcanosh/vc-webhook-manager:v1.12.2
-volcanosh/vc-agent:v1.12.2
+projecthami/volcano-vgpu-device-plugin:v1.10.0
 
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
