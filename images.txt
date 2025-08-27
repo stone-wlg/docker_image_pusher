@@ -1,3 +1,1 @@
-ubuntu:24.04
-nvidia/cuda:12.2.0-devel-ubuntu20.04
-ubuntu:20.04
+registry.k8s.io/lws/lws:0.7.0
