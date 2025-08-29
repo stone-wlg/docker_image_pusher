@@ -1,7 +1,1 @@
-ghcr.io/kubeflow/trainer/trainer-controller-manager:latest
-registry.k8s.io/jobset/jobset:v0.8.2
-ghcr.io/kubeflow/trainer/torchtune-trainer:latest
-ghcr.io/kubeflow/trainer/dataset-initializer:latest
-ghcr.io/kubeflow/trainer/model-initializer:latest
-ghcr.io/kubeflow/trainer/mlx-runtime:latest
-ghcr.io/kubeflow/trainer/deepspeed-runtime:latest
+pytorch/pytorch:2.8.0-cuda12.9-cudnn9-runtime
