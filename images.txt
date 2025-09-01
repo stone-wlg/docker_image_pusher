@@ -1,1 +1,1 @@
-lmcache/vllm-openai:latest-nightly
+lmcache/lmstack-router:latest
