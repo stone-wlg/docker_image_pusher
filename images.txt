@@ -1,1 +1,2 @@
-gcr.io/istio-release/install-cni:1.26.1
+kubeflownotebookswg/jupyter-pytorch-cuda-full:v1.10.0-rc.1
+
