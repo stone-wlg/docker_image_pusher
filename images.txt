@@ -1,1 +1,1 @@
-apache/apisix:3.13.0-ubuntu
+headscale/headscale:v0.26.1
