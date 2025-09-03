@@ -1,2 +1,1 @@
-kubeflownotebookswg/jupyter-pytorch-cuda-full:v1.10.0-rc.1
-
+apache/apisix:3.13.0-ubuntu
