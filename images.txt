@@ -1,1 +1,1 @@
-headscale/headscale:v0.26.1
+tailscale/tailscale:v1.86.5
