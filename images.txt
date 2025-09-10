@@ -1,2 +1,2 @@
-headscale/headscale:v0.26.1-debug
+registry.k8s.io/jobset/jobset:v0.9.0
 
