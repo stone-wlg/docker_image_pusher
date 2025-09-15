@@ -1,3 +1,1 @@
-registry.k8s.io/kueue/kueue:v0.13.4
-registry.k8s.io/kueue/kueueviz-backend:v0.13.4
-registry.k8s.io/kueue/kueueviz-frontend:v0.13.4
+kindest/node:v1.34.0
