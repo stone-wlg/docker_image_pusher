@@ -1,1 +1,1 @@
-dtaniwaki/k8s-virtual-device-plugin:latest
+golang:latest
