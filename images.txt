@@ -1,1 +1,1 @@
-golang:latest
+hiyouga/llamafactory:0.9.4
