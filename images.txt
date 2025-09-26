@@ -1,1 +1,1 @@
-nvcr.io/nvidia/k8s-dra-driver-gpu:v25.3.2
+pytorch/pytorch:2.8.0-cuda12.9-cudnn9-devel
