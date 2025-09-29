@@ -1,1 +1,1 @@
-lmsysorg/sglang:dsv32
+vllm/vllm-openai:dsv32
