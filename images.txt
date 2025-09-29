@@ -1,1 +1,2 @@
-vllm/vllm-openai:v0.10.2
+docker.io/nvidia/cuda:12.8.1-devel-ubuntu22.04 
+docker.io/nvidia/cuda:12.8.1-devel-ubuntu20.04
