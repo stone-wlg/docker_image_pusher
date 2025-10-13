@@ -1,2 +1,3 @@
-docker:latest
+docker:dind-rootless
+
 
