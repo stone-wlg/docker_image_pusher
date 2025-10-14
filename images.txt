@@ -1,4 +1,4 @@
-kindest/node:v1.32.8
+registry.nestybox.com/nestybox/ubuntu-bionic-systemd-docker
 
 
 
