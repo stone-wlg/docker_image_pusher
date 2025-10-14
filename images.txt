@@ -1,3 +1,4 @@
-registry.nestybox.com/nestybox/sysbox-deploy-k8s:v0.6.7-0
+kindest/node:v1.33.4
+
 
 
