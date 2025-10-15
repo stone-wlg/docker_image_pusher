@@ -1,4 +1,5 @@
-kindest/node:v1.33.4
+nvidia/cuda:13.0.1-cudnn-runtime-ubuntu24.04
+nvidia/cuda:13.0.1-cudnn-devel-ubuntu24.04
 
 
 
