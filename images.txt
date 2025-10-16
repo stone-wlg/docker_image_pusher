@@ -1,1 +1,1 @@
-ghcr.io/prasad89/dind-ubuntu-nvidia:latest
+ghcr.io/extrality/nvidia-dind:latest
