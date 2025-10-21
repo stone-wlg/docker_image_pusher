@@ -1,1 +1,2 @@
-quay.io/derailed/k9s:latest
+registry.k8s.io/jobset/jobset:v0.10.1
+
