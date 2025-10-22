@@ -1,2 +1,2 @@
-registry.k8s.io/jobset/jobset:v0.10.1
+quay.io/jupyter/pytorch-notebook:cuda12-ubuntu-24.04
 
