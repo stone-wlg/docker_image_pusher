@@ -1,3 +1,4 @@
-berkeleyskypilot/skypilot:0.10.3.post2
+us-central1-docker.pkg.dev/skypilot-375900/skypilotk8s/skypilot:latest
+us-central1-docker.pkg.dev/skypilot-375900/skypilotk8s/skypilot-gpu:latest
 
 
