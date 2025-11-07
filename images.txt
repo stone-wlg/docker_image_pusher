@@ -1,2 +1,1 @@
-verlai/verl:vllm011.dev7
-verlai/verl:sgl054p3.dev
+ghcr.io/loft-sh/loft:4.5.1-rc.1
