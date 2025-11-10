@@ -1,1 +1,1 @@
-ghcr.io/loft-sh/loft:4.5.1-rc.1
+verlai/verl:base-verl0.5-cu126-cudnn9.8-torch2.7.0-fa2.7.4
