@@ -1,1 +1,1 @@
-verlai/verl:base-verl0.5-cu126-cudnn9.8-torch2.7.0-fa2.7.4
+verlai/verl:dev.vllm_nightly-243ed7d32e94f00a9a32fbbc51be932f6277a55d
