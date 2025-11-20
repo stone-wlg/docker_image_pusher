@@ -1,3 +1,3 @@
-verlai/verl:base-verl0.6-cu128-cudnn9.8-torch2.8.0-fa2.7.4
-verlai/verl:app-verl0.6-transformers4.56.1-sglang0.5.2-mcore0.13.0-te2.2
+minio/mc:latest
+
 
